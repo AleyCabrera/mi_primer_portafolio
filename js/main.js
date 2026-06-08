@@ -5,8 +5,8 @@ document.addEventListener("DOMContentLoaded", () => {
     const texts = [
         { id: "typing1", text: "Hola, mi nombre es" },
         { id: "typing2", text: "Tu Nombre." },
-        { id: "typing3", text: "Transformamos ideas en soluciones digitales seguras e innovadoras." },
-        { id: "typing4", text: "Desarrollo software full stack y estrategias de ciberseguridad para crear aplicaciones robustas, escalables y accesibles que protegen tus datos y potencian tu modelo negocio." },
+        { id: "typing3", text: "Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto." },
+        { id: "typing4", text: "Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500, cuando un impresor (N. del T. persona que se dedica a la imprenta) desconocido usó una galería de textos y los mezcló de tal manera que logró hacer un libro de textos especimen." },
     ];
 
     const typingSpeed = 60; // Velocidad de escritura (ms por carácter)
