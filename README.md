@@ -1,41 +1,131 @@
-# 🚀 Aley Cabrera D :lock: 
+# 🌱 Mi Primer Portafolio Web
 
-Bienvenidos a mi portafolio web, un espacio donde destaco mis habilidades, proyectos y certificaciones en el mundo del desarrollo de software y la ciberseguridad.
+> **Bienvenido al primer capítulo de mi historia como desarrollador.**
+> **Este repositorio forma parte de mi serie "Mi evolución como desarrollador". Aquí conservo uno de los primeros proyectos que realicé cuando estaba aprendiendo desarrollo web.**
 
-🌟 Sobre este proyecto
+Si bien!
 
-Este portafolio ha sido diseñado con un enfoque moderno, accesible y escalable, incorporando las mejores prácticas de desarrollo web y optimización SEO. Su propósito no es solo mostrar mi experiencia y conocimientos, sino también servir como una plataforma profesional para conectar con reclutadores y colaboradores del sector.
+> Todos tenemos un primer proyecto.
+> Este fue el mío.
 
-🛠️ Tecnologías utilizadas
-Frontend: React, Tailwind CSS, Sass
-Backend (en desarrollo): Node.js, Express
-Base de datos (en desarrollo): MySQL, MongoDB
-Herramientas y optimización: Vite, ESLint, Prettier, Lighthouse SEO
+Hace aproximadamente dos años inicié mi camino en el desarrollo de software. En ese momento apenas estaba aprendiendo HTML, CSS y JavaScript, y decidí construir mi primer portafolio personal.
 
-📌 Características principales
+Hoy, mientras organizo todo mi trabajo para publicarlo en GitHub, quise conservar este proyecto prácticamente como fue creado. No representa mi nivel actual de desarrollo, sino el punto desde donde comenzó todo.
 
-✅ Diseño atractivo y responsivo
+Creo que es importante recordar de dónde venimos, porque cada línea de código escrita, incluso la más simple, hizo parte del proceso que me permitió seguir creciendo como desarrollador.
 
-✅ Modo oscuro / claro
+Este repositorio marca el inicio de esa historia.
 
-✅ Sección de proyectos con detalles técnicos
+---
 
-✅ Blog con artículos sobre desarrollo y ciberseguridad
+## 🚀 Acerca del proyecto
 
-✅ Newsletter para atraer reclutadores
+Este proyecto consiste en un portafolio web estático desarrollado con tecnologías básicas del desarrollo Frontend.
 
-✅ Página de contacto para cotización de servicios
+Incluye diferentes secciones como:
 
+- 🏠 Página de inicio
+- 👨‍💻 Sobre mí
+- 📂 Proyectos
+- 📰 Blog
+- 🏆 Certificaciones
+- 📩 Contacto
 
-🚧 Estado del proyecto
+Fue desarrollado cuando apenas comenzaba a aprender desarrollo web, por lo que muchas decisiones de diseño y estructura reflejan el conocimiento que tenía en ese momento.
 
-🔹 Actualmente en desarrollo con nuevas mejoras en camino, incluyendo autenticación de usuarios y más funcionalidades interactivas.
+---
 
+## 🛠 Tecnologías utilizadas
 
-📬 Contacto
+- HTML5
+- CSS3
+- JavaScript
+- Responsive Design
+- Google Fonts
+- Font Awesome
 
-Si quieres colaborar o necesitas más información, ¡no dudes en escribirme!
+---
 
-🔗 LinkedIn
+## 📁 Estructura del proyecto
 
-🔗 Portafolio (Próximamente)
+```text
+mi_primer_portafolio/
+│
+├── index.html
+├── sobremi.html
+├── proyectos.html
+├── blog.html
+├── certificaciones.html
+├── contacto.html
+│
+├── css/
+├── js/
+├── assets/
+│   ├── imagenes/
+│   ├── videos/
+│   ├── iconos/
+│   └── logos/
+└── README.md
+```
+
+---
+
+## 💡 Lo que aprendí durante este proyecto
+
+Este proyecto me permitió aprender por primera vez conceptos como:
+
+- Organización de proyectos web
+- Maquetación con HTML
+- Diseño con CSS
+- Responsive Design
+- Animaciones CSS
+- Navegación entre páginas
+- Organización de recursos (assets)
+- Uso de tipografías externas
+- Primeros pasos con JavaScript
+
+Mirándolo hoy puedo identificar muchas cosas que haría diferente, pero precisamente eso demuestra cuánto he avanzado.
+
+---
+
+## 📈 Estado del proyecto
+
+✅ Finalizado
+
+Este repositorio permanecerá como registro histórico de mi proceso de aprendizaje.
+
+No planeo actualizarlo significativamente, ya que prefiero conservarlo como evidencia de mi evolución como desarrollador.
+
+---
+
+## 🎯 Próximos proyectos
+
+A partir de este repositorio comenzaré a publicar muchos de los proyectos que he desarrollado durante mi proceso de aprendizaje.
+
+Mi objetivo es documentar mi evolución desde los primeros proyectos hasta desarrollos mucho más complejos relacionados con:
+
+- Desarrollo Web
+- Ingeniería de Software
+- Backend
+- Aplicaciones móviles
+- Ciberseguridad
+- IoT
+- Inteligencia Artificial
+- Automatización
+- Sistemas Embebidos
+
+---
+
+## ❤️ Una reflexión personal
+
+Este probablemente no sea el mejor código que he escrito.
+
+Pero sí es el más importante.
+
+Porque fue el primero que me hizo sentir que realmente podía convertirme en desarrollador.
+
+Hoy comienza una nueva etapa: compartir públicamente todo el camino recorrido, proyecto tras proyecto.
+
+Espero que dentro de algunos años pueda volver a este repositorio y recordar cómo empezó todo.
+
+Gracias por visitar este proyecto.
